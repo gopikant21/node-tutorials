@@ -1,0 +1,15 @@
+{
+  "name": "folder2",
+  "version": "1.0.0",
+  "description": "\"nodejs tutorial by freeCodecamp\"",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gopi Kant",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "lodash": "^4.17.21"
+  }
+}
